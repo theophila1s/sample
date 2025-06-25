@@ -1,3 +1,4 @@
+# Test commit from Git Bash
 
 try:
     numerator = 10
